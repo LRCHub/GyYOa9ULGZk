@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "VITA",
+  "base_artist": "ReoNa",
+  "createdAt": "2026-02-23T17:38:28.333194Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dolce Vita",
+      "artist": "Mr. Oizo feat. Phra",
+      "has_synced": true,
+      "path": "select/01_Dolce_Vita_Mr._Oizo_feat._Phra.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dolce Vita",
+      "artist": "Mr. Oizo & Phra",
+      "has_synced": true,
+      "path": "select/02_Dolce_Vita_Mr._Oizo_&_Phra.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "La dolce vita",
+      "artist": "Christophe feat. Julien Doré",
+      "has_synced": true,
+      "path": "select/03_La_dolce_vita_Christophe_feat._Julien_Doré.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Il Cerchio Della Vita",
+      "artist": "Ivana Spagna",
+      "has_synced": true,
+      "path": "select/04_Il_Cerchio_Della_Vita_Ivana_Spagna.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dolce Vita",
+      "artist": "Mr. Oizo",
+      "has_synced": true,
+      "path": "select/05_Dolce_Vita_Mr._Oizo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dolce Vita (Maxi Single)",
+      "artist": "Ryan Paris",
+      "has_synced": true,
+      "path": "select/06_Dolce_Vita_(Maxi_Single)_Ryan_Paris.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "La Dolly Vita - 2011 Mix",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/07_La_Dolly_Vita_-_2011_Mix_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "La vita nuova",
+      "artist": "Christine and the Queens feat. Caroline Polachek",
+      "has_synced": true,
+      "path": "select/08_La_vita_nuova_Christine_and_the_Queens_feat._Caroline_Polachek.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vita-Set - Remasterizado 2007",
+      "artist": "Soda Stereo",
+      "has_synced": true,
+      "path": "select/09_Vita-Set_-_Remasterizado_2007_Soda_Stereo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "La Dolce Vita",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/10_La_Dolce_Vita_Sparks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "La Dolce Vita (Extended Version) (Remastered)",
+      "artist": "Sparks",
+      "has_synced": false,
+      "path": "select/11_La_Dolce_Vita_(Extended_Version)_(Remastered)_Sparks.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Down The Dolce Vita",
+      "artist": "Peter Gabriel",
+      "has_synced": true,
+      "path": "select/12_Down_The_Dolce_Vita_Peter_Gabriel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lapdance (feat. Lee Harvey & Vita) - Paul Oakenfold Swordfish Mix",
+      "artist": "N.E.R.D. feat. Lee Harvey & Vita",
+      "has_synced": true,
+      "path": "select/13_Lapdance_(feat._Lee_Harvey_&_Vita)_-_Paul_Oakenfold_Swordfish_Mix_N.E.R.D._feat._Lee_Harvey_&_Vita.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lapdance (Feat. Lee Harvey & Vita) (Paul Oakenfold Swordfish Mix)",
+      "artist": "N*E*R*D",
+      "has_synced": true,
+      "path": "select/14_Lapdance_(Feat._Lee_Harvey_&_Vita)_(Paul_Oakenfold_Swordfish_Mix)_N_E_R_D.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Alleine zu zweit (Torris Vita mix)",
+      "artist": "Lacrimosa",
+      "has_synced": false,
+      "path": "select/15_Alleine_zu_zweit_(Torris_Vita_mix)_Lacrimosa.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Down the Dolce Vita",
+      "artist": "Peter Gabriel (SACD 2003 Remaster)",
+      "has_synced": true,
+      "path": "select/16_Down_the_Dolce_Vita_Peter_Gabriel_(SACD_2003_Remaster).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "...e poi mi parli di una vita insieme",
+      "artist": "Vasco Rossi",
+      "has_synced": true,
+      "path": "select/17_...e_poi_mi_parli_di_una_vita_insieme_Vasco_Rossi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "VITA",
+      "artist": "ReoNa",
+      "has_synced": false,
+      "path": "select/pl_01_VITA_ReoNa.txt"
+    }
+  ]
+}
